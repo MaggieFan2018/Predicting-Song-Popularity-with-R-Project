@@ -1,4 +1,4 @@
-setwd("~/Desktop/spring 2019/ITWS 6600/PROJECT")
+setwd("~/Desktop/Predicting-Song-Popularity-in-R")
 #get the whole data
 wholedata <- read.csv("wholedata.csv", header = T)
 #look at the data type
