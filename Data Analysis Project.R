@@ -1,6 +1,6 @@
 setwd("~/Desktop/Predicting-Song-Popularity-in-R")
 #get the whole data
-wholedata <- read.csv("wholedata.csv", header = T)
+wholedata <- read.csv("raw.csv", header = T)
 #look at the data type
 str(wholedata)
 dim(wholedata)
