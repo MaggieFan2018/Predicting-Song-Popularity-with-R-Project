@@ -196,6 +196,8 @@ From the summary results, we find both the two datasets have some artists that s
 <p align="center">
 <img src="Images/Flowchart.png"> 
 </p>
+
+
 The whole process of what we have done for this project is shown above. I started with preprocessing and exploratory data analysis, where steps such as basic summary, data cleaning, visualization and correlation analysis, dealing with outliers, feature analysis and engineering are included in this section and data are well prepared for modeling. Then I tried many different algorithms and used the Accuracy as the main evaluation for model performance. Finally, model with the best performance on the training data set is chosen and then is used to get the final prediction results for testing dataset. Besides, text analysis are done based on the artist names and track names.
 
 
