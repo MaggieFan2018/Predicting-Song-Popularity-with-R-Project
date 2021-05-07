@@ -13,6 +13,7 @@ Predicting song popularity is particularly important in keeping businesses  comp
 - Model Development and Application 
 - Text Analysis
 - Conclusions and Discussion
+- References
 
 ## 1. Motivation and Problem Statement
 - **Motivation**
@@ -205,3 +206,40 @@ The aim of this work was to further investigate whether or not it is possible to
 
 
 There are a number of improvements that would need to be taken into consideration for future research within this field. One improvement would be to use more features than we did in our research. We believe that including more metadata such as genre, label, lyrics, and artist popularity would improve the accuracy of the models considerably. Another improvement would be to do feature selection and model optimization. Lastly, it would be favorable to define what a hot song is in a more explicit way.
+
+## References
+Pachet, F., Roy, P. “Hit Song Science is Not Yet a Science.” Ismir (2008): 355-360.
+
+Salganik,  Matthew  J.,  Peter  Sheridan  Dodds,  and  Duncan  J.  Watts. “Experimental  Study  of  Inequality  and  Unpredictability  in  An  Artificial Cultural Market.” Science (2006): 854-856.
+
+“Making Music Predictions with Apache Spark.” Matthew Moocarme. Matthew Moocarme, 2016. Web. 2016.
+<http://www.mattmoocar.me/blog/Spark-Music-Rec/>
+
+“Spotify Audio Features.” Kaggle. Kaggle Inc, 3 Dec. 2018. Web. 2019.
+<https://www.kaggle.com/tomigelo/spotify-audio-features>
+
+“Get Audio Features for a Track.” Spotify. Spotify AB, 2019. Web. 2019.
+<https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/>
+
+“Linear Discriminant Analysis (LDA).” Techopedia. Techopedia Inc, 2019. Web. 2019.
+<https://www.techopedia.com/definition/33211/linear-discriminant-analysis-lda>
+
+“Predicting Hit Songs with Machine Learning.” DiVA. DiVA, 2019. Web. 2019.
+< http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1214146&dswid=6570>
+
+“Predicting Song Popularity.” Stanford University. Stanford University, 2019. Web. 2019
+< http://cs229.stanford.edu/proj2015/140_report.pdf>
+
+“Song Popularity Predictor.” Towards Data Science. Towards Data Science, 2019. Web. 2019.
+< https://towardsdatascience.com/song-popularity-predictor-1ef69735e380>
+
+“Lyric Analysis with NLP & Machine Learning with R.” Debbie Liske. DataCamp, Inc., 2 Feb. 2018. Web. 2019.
+
+“Your First Machine Learning Project in R Step-By-Step (tutorial and template for future projects).” Jason Brownlee. Machine Learning Mastery, 3 Feb. 2016. Web. 2019.
+<https://machinelearningmastery.com/machine-learning-in-r-step-by-step/>
+
+“Ensemble methods.” scikit-learn. scikit-learn developers, 2007. Web. 8 Dec. 2018.
+<https://scikit-learn.org/stable/modules/ensemble.html#random-forests>
+
+“Classification and Regression Trees (CARTs).” University of Oregon. University of Oregon, 2019. Web. 2019.
+<http://geog.uoregon.edu/GeogR/topics/treeex1.html>
