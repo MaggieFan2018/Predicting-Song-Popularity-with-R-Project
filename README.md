@@ -80,7 +80,7 @@ From the summary results, we find both the two datasets have some artists that s
     - Energy: The more energetic the tracks (e.g. fast, loud, and noisy), the more popular of the song.
     - Acousticness: The less the track is acoustic, the more popular of the song.
 <p align="center">
-<img src="Images/Cor_Matrix.png" width="425"/> <img src="Images/Coefficients.png" width="425"/> 
+<img src="Images/Cor_Matrix.png" width="425"/> <img src="Images/coefficients.png" width="425"/> 
 </p>
 
 - **Feature Preparation & Creation**
